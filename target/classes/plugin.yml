@@ -1,0 +1,7 @@
+name: Evoker
+version: '1.0-SNAPSHOT'
+main: me.zombie_striker.evoker.Evoker
+api-version: 1.19
+softdepend: [ Vault, WorldGuard, WorldEdit, Towny, PlaceHolderAPI ]
+authors: [ Zombie_Striker ]
+description: Easily Design plugins using a graphic interface.
